@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <!--<color name="colorAccent">#FF4081</color>-->
+
+    <color name="colorAccent">#f6ac01</color>
+
+    <color name="lbd_blue">#01ACE6</color>
+    <color name="lbd_toolbar_blue">#00ade5</color>
+    <color name="lbd_status_bar">#0084D4</color>
+    <color name="lbd_back_white">#ffffff</color>
+    <color name="lbd_back_gray">#ececec</color>
+    <color name="lbd_text_gray">#a1a1a1</color>
+    <color name="lbd_text_blue">#5ebcdb</color>
+    <color name="lbd_red">#f77575</color>
+    <color name="lbd_text_deep_blue">#586a95</color>
+
+    <color name="lbd_yellow">#f6ac01</color>
+    <color name="lbd_back_yellow">#f6ac01</color>
+    <color name="lbd_unable_yellow">#fed370</color>
+    <color name="lbd_light_yellow">#fbc205</color>
+    <color name="lbd_toolbar_yellow">#f6ac01</color>
+    <color name="lbd_text_brown">#975711</color>
+    <color name="lbd_text_orange">#fc5605</color>
+    <color name="lbd_text_black">#2a2a2a</color>
+    <color name="lbd_back_gray2">#e8e8e8</color>
+    <color name="lbd_back_deep_gray">#bebebe</color>
+    <color name="hydbest_orange">#feb540</color>
+    <color name="hydbest_gray_orange">#ffff9d</color>
+    <color name="hydbest_unable_orange">#ffd166</color>
+    <color name="hydbest_light_orange">#ffd870</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="black_light">#2a2a2a</color>
+    <color name="black_4">#121415</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="black_transparent">#a0000000</color>
+    <color name="lbd_black_light">#2a2a2a</color>
+
+    // SwipeRefreshLayout
+    <color name="refresh_blue">@android:color/holo_blue_dark</color>
+    <color name="refresh_red">@android:color/holo_red_dark</color>
+
+    <color name="light_yellow">#fff600</color>
+    <color name="black_yellow">#ffcc01</color>
+    <color name="translucence">#e0ffffff</color>
+    <color name="light_purple">#6d80d5</color>
+    <color name="black_purple">#6276cf</color>
+    <color name="divider_line_color">#dbdbdb</color>
+
+    <color name="bottom_tab_select_color">#00ace6</color>
+    <color name="bottom_tab_color">#a1a1a1</color>
+
+    // 按钮文字颜色
+    <color name="common_button_text_color_enable">#2d44ad</color>
+    <color name="common_button_text_color_unable">#4cffffff</color>
+    <color name="common_button_text_color_enable_wecash">#ffffff</color>
+    <color name="common_button_text_color_unable_wecash">#7fffffff</color>
+
+    <color name="common_title_bg_color">#efefef</color>
+    <color name="male_title_bg_color">#98c4ea</color>
+    <color name="female_title_bg_color">#F7B8D7</color>
+    <color name="title_text_color">#ffffff</color>
+
+    <color name="user_item_color">#ffffff</color>
+    <color name="user_item_mark">#eeeeee</color>
+
+    <color name="user_info_bg_color">#e5e5e5</color>
+    <color name="user_info_toolbar_bg">#fbfafb</color>
+    <color name="user_info_item_data_color">#4b4b4b</color>
+    <color name="user_info_item_title_color">#a1a1a1</color>
+    <color name="user_info_item_save_color">#583f9c</color>
+    <color name="user_info_item_bg">#f9f9f9</color>
+    <color name="user_info_item_hint_color">#cccccc</color>
+    <color name="user_info_divider_color">#e5e5e5</color>
+    <color name="user_info_edit_btn_color">#a1a1a1</color>
+    <color name="user_info_save_btn_color">#ffd92a</color>
+    <color name="user_info_photo_stroke_color">#dbdbdb</color>
+
+    <color name="improve_credit_start_bg">#ceb5e3</color>
+    <color name="improve_credit_end_bg">#87aff4</color>
+
+    <color name="apply_loan_bg_gray_dark">#e5e5e0</color>
+    <color name="apply_loan_bg_gray_light">#f0f0eb</color>
+    <color name="apply_loan_white">#fefcf7</color>
+    <color name="apply_loan_gray_dark">#b2b0ac</color>
+    <color name="apply_loan_gray_light">#d7d6d1</color>
+    <color name="apply_loan_blue">#4889ff</color>
+    <color name="apply_loan_black">#4c4743</color>
+
+    <color name="register_and_login_line">#66c8d2ff</color>
+    <color name="register_and_login_edittext_bg">#336276cf</color>
+    <color name="register_and_login_edittext_hint_text_color">#4cffffff</color>
+    <color name="register_and_login_text_color">#4f2855</color>
+    <color name="get_identifying_code_text_color">#187ac9</color>
+
+    <color name="user_bg">#e5e5e5</color>
+    <color name="user_text_gray">#a1a1a1</color>
+    <color name="user_text_black">#4b4b4b</color>
+    <color name="user_text_red">#ff0000</color>
+    <color name="user_text_white">#FFFFFF</color>
+
+    <color name="get_identifying_code_text_color_enable">#4b4b4b</color>
+    <color name="get_identifying_code_text_color_unable">#664b4b4b</color>
+    <color name="order_black">#4b4b4b</color>
+    <color name="order_gray_light">#a1a1a1</color>
+    <color name="order_gray_dark">#dbdbdb</color>
+    <color name="order_white">#f6f5f5</color>
+    <color name="order_yellow">#ff9000</color>
+    <color name="order_purple">#4f2855</color>
+    <color name="order_gray_bg_wecash">#ececec</color>
+    <color name="order_gray_light_wecash">#f2f2f2</color>
+
+    <color name="order_blue_wecash">#00ace6</color>
+
+    <color name="repayment_confirm_bottom_background">#f2f6f6f6</color>
+
+    <color name="home_pink">#a9a8dd</color>
+    <color name="home_gradient_blue_light">#84b0fe</color>
+    <color name="home_gradient_blue_dark">#4889ff</color>
+    <color name="home_blue_light">#6673b2e8</color>
+    <color name="home_blue_dark">#71bdfe</color>
+    <color name="home_white_dark">#daebf9</color>
+    <color name="home_black">#4c4743</color>
+    <color name="home_gray">#b2b0ac</color>
+    <color name="home_gray_light">#d9d8d8</color>
+    <color name="home_yellow">#ffd92a</color>
+    <color name="home_white">#f3f3f3</color>
+    <color name="home_blue_dark_wecash">#1ca0fc</color>
+    <color name="home_blue_light_wecash">#99ddf9</color>
+
+    <color name="common_button_enable_wecash">#f88180</color>
+    <color name="common_button_unable_wecash">#7ff88180</color>
+
+    <color name="mine_background_wecash">#98c4ea</color>
+
+    <color name="toolbar_background_wecash">#f5f5f5</color>
+
+    <color name="account_settings_background_wecash">#ececec</color>
+
+    <color name="selected_radius_background">#b3b3b3</color>
+    <color name="unselected_radius_background">#e6e6e6</color>
+
+    <color name="common_button_blue_enable_wecash">#1ca0fc</color>
+    <color name="common_button_blue_unable_wecash">#7f1ca0fc</color>
+
+    <color name="card_insterest_text">#FFFFFF</color>
+    <color name="card_insterest_btn_back1">#f57171</color>
+    <color name="card_insterest_btn_back2">#D74D4D</color>
+    <color name="card_insterest_btn_back3">#C8C8C8</color>
+    <color name="card_insterest_btn_back4">#969696</color>
+    <color name="card_insterest_tab_back">#FFFFFF</color>
+    <color name="card_insterest_tab_text_default">#000000</color>
+    <color name="card_insterest_tab_text_select">#f57171</color>
+    <color name="card_insterest_back">#FFFFFF</color>
+    <color name="card_insterest_pop_shadow">#000000</color>
+
+    <color name="umeng_white">#ffffff</color>
+    <color name="umeng_blue">#469ef8</color>
+    <color name="umeng_black">#000000</color>
+
+    <color name="upter_blue">#30B8FF</color>
+    <color name="mine_toolbar">#5dcbf4</color>
+
+    <color name="order_card_insterest">#E86060</color>
+    <color name="order_bubble">#18C261</color>
+
+    <color name="lbb_main">#ffa800</color>
+    <color name="lbb_assist">#fbc205</color>
+    <color name="lbb_light">#ffc659</color>
+    <color name="lbb_text_main">#4c4c4c</color>
+    <color name="lbb_text_assist">#808080</color>
+    <color name="lbb_text_light">#999999</color>
+    <color name="lbb_text_gray">#cccccc</color>
+    <color name="lbb_line_heveay">#dedede</color>
+    <color name="lbb_line_light">#f0f0f0</color>
+    <color name="lbb_input_bg">#f5f5f5</color>
+
+    <color name="stroke_normal">#333333</color>
+    <color name="stroke_gray">#999999</color>
+
+</resources>

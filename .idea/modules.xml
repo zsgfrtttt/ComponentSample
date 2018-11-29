@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ComponentSample.iml" filepath="$PROJECT_DIR$/ComponentSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/busia/busia.iml" filepath="$PROJECT_DIR$/busia/busia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/busib/busib.iml" filepath="$PROJECT_DIR$/busib/busib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/busimain/busimain.iml" filepath="$PROJECT_DIR$/busimain/busimain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+    </modules>
+  </component>
+</project>

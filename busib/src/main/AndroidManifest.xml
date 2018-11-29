@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="component.csz.com.componentsample.busib">
+    <application android:theme="@style/AppTheme">
+        <activity
+            android:name=".Boot2Activity"
+            android:screenOrientation="portrait" />
+    </application>
+</manifest>
